@@ -1,0 +1,2 @@
+^C:\LAB3\LAB3_ENCLAVE\LAB3_ENCLAVE\LAB3_ENCLAVE.EDL
+"C:\Program Files (x86)\Intel\IntelSGXSDK\\bin\win32\Release\sgx_edger8r.exe" --untrusted ".\..\..\lab3_Enclave\lab3_Enclave\lab3_Enclave.edl" --search-path ".\..\..\lab3_Enclave\lab3_Enclave;C:\Program Files (x86)\Intel\IntelSGXSDK\\include"
